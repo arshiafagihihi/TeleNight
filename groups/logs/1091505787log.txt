@@ -1,0 +1,120 @@
+[ Fri Sep  9 15:45:17 2016 ]=>  بابا [75328902] used /get plug
+ 
+[ Fri Sep  9 23:26:09 2016 ]=>  mojtaba [249912733] used /teleseed 
+ 
+[ Fri Sep  9 23:30:33 2016 ]=>  mojtaba [249912733] used /teleseed 
+ 
+[ Sat Sep 10 12:56:11 2016 ]=>  بابا [75328902] added SuperGroup
+ 
+[ Sat Sep 10 12:56:23 2016 ]=>  بابا [75328902] requested SuperGroup settings 
+ 
+[ Sat Sep 10 12:59:28 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Sat Sep 10 13:00:17 2016 ]=>  بابا [75328902] requested SuperGroup settings 
+ 
+[ Sat Sep 10 13:00:27 2016 ]=>  بابا [75328902] locked Tgservice Actions
+ 
+[ Sat Sep 10 13:01:38 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Sat Sep 10 13:03:17 2016 ]=>  بابا [75328902] set: [219201071] as owner by reply
+ 
+[ Sat Sep 10 13:04:05 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Sat Sep 10 13:05:13 2016 ]=>  ❣↝..  ɱσɧąɱɱąđ  ..↜❣‌    ‍ ‌‌‌‌       ‌‌‌‌ ‌    ‌‌‌‌ ‌    ‍ ‌‌‌‌ [219201071] requested SuperGroup ID
+ 
+[ Sat Sep 10 13:08:33 2016 ]=>  ❣↝..  ɱσɧąɱɱąđ  ..↜❣‌    ‍ ‌‌‌‌       ‌‌‌‌ ‌    ‌‌‌‌ ‌    ‍ ‌‌‌‌ [219201071] requested SuperGroup info
+ 
+[ Sat Sep 10 13:55:14 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Sat Sep 10 13:58:05 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Sat Sep 10 14:31:44 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Sat Sep 10 14:32:47 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Mon Sep 12 23:25:21 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Mon Sep 12 23:26:08 2016 ]=>  😘4R5H!4 F49H!H!😎 [139369173] requested SuperGroup ID
+ 
+[ Tue Sep 13 16:46:37 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 21:04:47 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 21:05:19 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Wed Sep 14 22:06:34 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 14 22:20:03 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 14 22:43:56 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 14 22:44:36 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Wed Sep 14 22:44:43 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 22:46:55 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Wed Sep 14 22:50:18 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 22:51:08 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 22:51:28 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 14 23:10:07 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 14 23:10:20 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:26:26 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:27:08 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:27:46 2016 ]=>  😘4R5H!4 F49H!H!😎 [139369173] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:30:13 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:30:29 2016 ]=>  مامان F49H!H!😎 [139369173] requested SuperGroup ID
+ 
+[ Wed Sep 14 23:31:11 2016 ]=>  مامان [139369173] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:10:48 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:11:53 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Thu Sep 15 11:11:59 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:14:54 2016 ]=>  ❣↝..  ɱσɧąɱɱąđ  ..↜❣‌    ‍ ‌‌‌‌       ‌‌‌‌ ‌    ‌‌‌‌ ‌    ‍ ‌‌‌‌ [219201071] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:18:12 2016 ]=>  مامان [139369173] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:18:23 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:20:37 2016 ]=>  بابا [75328902] requested SuperGroup ID
+ 
+[ Thu Sep 15 11:41:05 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Thu Sep 15 11:41:37 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Thu Sep 15 11:41:43 2016 ]=>  بابا [75328902] requested SuperGroup info
+ 
+[ Thu Sep 15 15:55:56 2016 ]=>  ❣↝..__ɱσɧąɱɱąđ__..↜❣‌____‍_‌‌‌‌_______‌‌‌‌_‌____‌‌‌‌_‌____‍_‌‌‌‌ [219201071] used /get Fantasy_Writer
+ 
+[ Thu Sep 15 22:37:06 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Thu Sep 15 22:51:32 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Mon Sep 19 09:01:51 2016 ]=>  بابا [75328902] set: [249912733] as owner by reply
+ 
+[ Tue Sep 20 10:26:39 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Tue Sep 20 10:27:58 2016 ]=>  بابا [75328902] set SuperGroup to: mute All
+ 
+[ Tue Sep 20 10:28:41 2016 ]=>  بابا [75328902] set SuperGroup to: unmute All
+ 
+[ Tue Sep 20 10:31:01 2016 ]=>  بابا [75328902] requested SuperGroup settings 
+ 
+[ Tue Sep 20 10:32:08 2016 ]=>  بابا [75328902] locked link posting 
+ 
+[ Wed Sep 21 16:35:29 2016 ]=>  بابا [75328902] Used /superhelp
+ 
+[ Wed Sep 21 20:43:45 2016 ]=>  بابا [75328902] requested SuperGroup settings 
+ 
